@@ -52,7 +52,7 @@ npm run dev
 
 ---
 
-Made with ❤️ by dakshkhare (https://github.com/dakshkhare)
+Made with ❤️ by [dakshkhare](https://github.com/dakshkhare)
 
 ⭐ **If you like this project, give it a star!**
 
